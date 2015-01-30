@@ -1,4 +1,4 @@
-## This program imports as CSV that has the raw targetlinx output
+## This program imports as CSV that has the raw targetlynx output
 ## and converts it to a more friendly format of a series of 2D spreadsheets
 ## with compounds/transitions as columns and samples as rows.
 
@@ -13,11 +13,11 @@
 ## the output filenames, which just defaults to
 ## "Areas", "RTs" and "Height_Area"
 
-setwd("C:/Users/Angela/Documents/2014 Summer lab work/target linx output modifying program")
+setwd("C:/Users/Angela/Documents/2014 Summer lab work/target linx output modifying program/essentials/")
 source("getAreas.R")
 filename <- "targetlinx_output.csv"
 
-## Reading in the targetlinx data --------------------------------------
+## Reading in the targetlynx data --------------------------------------
 unmodified <- read.csv(filename ,header=FALSE, comment.char="", as.is=TRUE)
 names(unmodified) <- unmodified[7,]
 

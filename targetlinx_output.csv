@@ -1,0 +1,627 @@
+Quantify Compound Summary Report ,,,,,,,,,,,,
+,,,,,,,,,,,,
+Printed Thu Jan 29 14:32:08 2015,,,,,,,,,,,,
+,,,,,,,,,,,,
+Compound 1:  Succinic Acid,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,11.26,99427.93,,99427.93,bb,,,6.633
+2,2,150127_Thal nor_BE Extraction,,0,11.27,166842.484,,166842.484,bb,,,6.927
+3,3,150127_Blank 3,,0,11.4,104.183,,104.183,bd,,,10.693
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,11.21,130873.672,,130873.672,bb,,,6.836
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,11.18,151880.828,,151880.828,bb,,,6.809
+6,6,150127_NEG Mix #1,,0,10.93,77053.328,,77053.328,bb,,,4.86
+7,7,150127_NEG Mix #2,,0,10.89,48737.375,,48737.375,bb,,,5.153
+8,8,150127_Thal nor_HW Extraction_2,,0,11.03,121721.688,,121721.688,bb,,,6.856
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,11.03,164198.172,,164198.172,bb,,,6.837
+,,,,,,,,,,,,
+Compound 2:  Glyceric Acid,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,7.88,15665.745,,15665.745,bb,,,6.098
+2,2,150127_Thal nor_BE Extraction,,0,7.96,3501.899,,3501.899,bb,,,6.084
+3,3,150127_Blank 3,,0,7.78,1.907,,1.907,bb,,,9.963
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,7.92,4153.994,,4153.994,bd,,,4.866
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,7.79,4106.396,,4106.396,bd,,,6.252
+6,6,150127_NEG Mix #1,,0,,,,,,,,
+7,7,150127_NEG Mix #2,,0,8.16,0.553,,0.553,bb,,,10.85
+8,8,150127_Thal nor_HW Extraction_2,,0,7.82,13969.932,,13969.932,bb,,,5.682
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,7.94,6091.419,,6091.419,bd,,,5.045
+,,,,,,,,,,,,
+Compound 3:  Thymidine,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,2.97,1808.105,,1808.105,bb,,,9.78
+2,2,150127_Thal nor_BE Extraction,,0,3,1361.097,,1361.097,MM,,,9.7
+3,3,150127_Blank 3,,0,2.95,4.285,,4.285,db,,,73.279
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,2.97,964.419,,964.419,bb,,,15.582
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,2.96,1807.357,,1807.357,bb,,,11.627
+6,6,150127_NEG Mix #1,,0,3,39965.008,,39965.008,bb,,,5.503
+7,7,150127_NEG Mix #2,,0,3.01,95.909,,95.909,bd,,,22.104
+8,8,150127_Thal nor_HW Extraction_2,,0,2.97,2167.648,,2167.648,MM,,,6.454
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,3,1735.449,,1735.449,bb,,,10.757
+,,,,,,,,,,,,
+Compound 4:  Malic Acid,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,11.99,2609361.25,,2609361.25,bb,,,5.611
+2,2,150127_Thal nor_BE Extraction,,0,12.01,2082157.875,,2082157.875,bb,,,5.862
+3,3,150127_Blank 3,,0,12.17,5796.715,,5796.715,bd,,,4.783
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,11.94,2649740.25,,2649740.25,bb,,,5.622
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,11.95,1931406.625,,1931406.625,bb,,,5.651
+6,6,150127_NEG Mix #1,,0,11.76,2999743,,2999743,bb,,,4.399
+7,7,150127_NEG Mix #2,,0,12.07,1481.073,,1481.073,dd,,,8.664
+8,8,150127_Thal nor_HW Extraction_2,,0,11.8,3169482.5,,3169482.5,bb,,,5.295
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,11.8,2836334.5,,2836334.5,bb,,,5.545
+,,,,,,,,,,,,
+Compound 5:  MESNA,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,2.76,129.226,,129.226,bb,,,27.286
+2,2,150127_Thal nor_BE Extraction,,0,2.72,102.57,,102.57,bb,,,34.435
+3,3,150127_Blank 3,,0,2.54,5.619,,5.619,bb,,,26.873
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,2.63,171.345,,171.345,dd,,,12.991
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,2.43,283.18,,283.18,bb,,,26.354
+6,6,150127_NEG Mix #1,,0,2.67,4336895.5,,4336895.5,bd,,,5.795
+7,7,150127_NEG Mix #2,,0,2.85,25.044,,25.044,bb,,,45.24
+8,8,150127_Thal nor_HW Extraction_2,,0,2.72,179.034,,179.034,db,,,19.7
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,2.7,68.401,,68.401,db,,,24.97
+,,,,,,,,,,,,
+Compound 6:  Ketoglutaric Acid,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,11.24,453457.969,,453457.969,MM,,,6.596
+2,2,150127_Thal nor_BE Extraction,,0,11.24,310140.063,,310140.063,MM,,,6.14
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,11.18,457973,,457973,MM,,,6.314
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,11.15,308317.75,,308317.75,MM,,,6.258
+6,6,150127_NEG Mix #1,,0,10.85,402099.063,,402099.063,bb,,,3.747
+7,7,150127_NEG Mix #2,,0,,,,,,,,
+8,8,150127_Thal nor_HW Extraction_2,,0,11,498411.75,,498411.75,db,,,5.724
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,10.98,493422.688,,493422.688,db,,,5.938
+,,,,,,,,,,,,
+Compound 7:  Guanine,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,6.72,83105.023,,83105.023,bb,,,5.346
+2,2,150127_Thal nor_BE Extraction,,0,6.71,62786.133,,62786.133,bb,,,5.491
+3,3,150127_Blank 3,,0,6.67,51.701,,51.701,db,,,7.659
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,6.72,63781.441,,63781.441,bb,,,5.43
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,6.71,101608.43,,101608.43,bb,,,5.213
+6,6,150127_NEG Mix #1,,0,6.67,43664.855,,43664.855,bb,,,5.564
+7,7,150127_NEG Mix #2,,0,6.76,171.907,,171.907,bd,,,8.592
+8,8,150127_Thal nor_HW Extraction_2,,0,6.69,88679.391,,88679.391,bb,,,5.317
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,6.69,69298.789,,69298.789,bb,,,5.393
+,,,,,,,,,,,,
+Compound 8:  PEP,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,14.08,14570.217,,14570.217,bb,,,5.176
+2,2,150127_Thal nor_BE Extraction,,0,14.09,5701.213,,5701.213,MM,,,5.802
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,14.09,29504.742,,29504.742,bb,,,5.811
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,14.05,959.355,,959.355,MM,,,6.174
+6,6,150127_NEG Mix #1,,0,13.87,148335.219,,148335.219,bb,,,7.488
+7,7,150127_NEG Mix #2,,0,,,,,,,,
+8,8,150127_Thal nor_HW Extraction_2,,0,14,11849.647,,11849.647,bb,,,5.901
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,14,22740.49,,22740.49,bb,,,4.704
+,,,,,,,,,,,,
+Compound 9:  DHAP,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,11.64,53643.129,,53643.129,bb,,,4.435
+2,2,150127_Thal nor_BE Extraction,,0,11.65,240455.188,,240455.188,bb,,,4.732
+3,3,150127_Blank 3,,0,11.49,6.193,,6.193,dd,,,12.272
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,11.59,583637.688,,583637.688,bb,,,4.743
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,11.56,74280.703,,74280.703,MM,,,3.382
+6,6,150127_NEG Mix #1,,0,11.41,131808.266,,131808.266,bb,,,7.291
+7,7,150127_NEG Mix #2,,0,,,,,,,,
+8,8,150127_Thal nor_HW Extraction_2,,0,11.45,49496.605,,49496.605,bb,,,5.14
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,11.44,293502.219,,293502.219,bd,,,4.852
+,,,,,,,,,,,,
+Compound 10:  Aconitic Acid,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,14.24,48059.465,,48059.465,bd,,,5.929
+2,2,150127_Thal nor_BE Extraction,,0,14.28,10978.98,,10978.98,MM,,,3.694
+3,3,150127_Blank 3,,0,14.02,92.675,,92.675,bb,,,15.063
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,14.24,16118.25,,16118.25,MM,,,5.344
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,14.18,8796.349,,8796.349,bb,,,4.351
+6,6,150127_NEG Mix #1,,0,13.99,2255263.5,,2255263.5,bb,,,4.706
+7,7,150127_NEG Mix #2,,0,13.99,60.968,,60.968,db,,,18.78
+8,8,150127_Thal nor_HW Extraction_2,,0,14.17,57721.418,,57721.418,bd,,,5.146
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,14.18,19938.691,,19938.691,MM,,,3.629
+,,,,,,,,,,,,
+Compound 11:  Shikimic Acid,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,9.3,1173.445,,1173.445,MM,,,5.673
+2,2,150127_Thal nor_BE Extraction,,0,9.35,470.52,,470.52,MM,,,8.361
+3,3,150127_Blank 3,,0,8.51,1.642,,1.642,bb,,,10.962
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,9.23,599.49,,599.49,MM,,,6.576
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,9.24,707.193,,707.193,MM,,,10.537
+6,6,150127_NEG Mix #1,,0,8.65,219903.641,,219903.641,bd,,,5.475
+7,7,150127_NEG Mix #2,,0,8.6,79.221,,79.221,bd,,,18.467
+8,8,150127_Thal nor_HW Extraction_2,,0,9.16,531.094,,531.094,MM,,,8.157
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,9.18,1017.885,,1017.885,MM,,,7.533
+,,,,,,,,,,,,
+Compound 12:  Ethyl Dihydroxybenzoate,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,2,2955.674,,2955.674,db,,,9.417
+2,2,150127_Thal nor_BE Extraction,,0,2.03,1870.119,,1870.119,dd,,,11.213
+3,3,150127_Blank 3,,0,2,120.012,,120.012,bd,,,21.673
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,2.01,1887.032,,1887.032,dd,,,13.733
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,2.01,1590.393,,1590.393,MM,,,8.422
+6,6,150127_NEG Mix #1,,0,2.01,1241751.25,,1241751.25,bb,,,12.637
+7,7,150127_NEG Mix #2,,0,1.74,111.747,,111.747,bb,,,27.052
+8,8,150127_Thal nor_HW Extraction_2,,0,2,3376.061,,3376.061,MM,,,10.551
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,1.98,2128.635,,2128.635,MM,,,8.288
+,,,,,,,,,,,,
+Compound 13:  Isocitric Acid,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,14.46,9330681,,9330681,bb,,,2.845
+2,2,150127_Thal nor_BE Extraction,,0,14.38,3995037.75,,3995037.75,bb,,,3.695
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,14.24,6300433,,6300433,bb,,,3.308
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,14.16,2407899.25,,2407899.25,MM,,,3.962
+6,6,150127_NEG Mix #1,,0,14.66,3546745,,3546745,dd,,,5.034
+7,7,150127_NEG Mix #2,,0,15.14,7541.663,,7541.663,bb,,,9.612
+8,8,150127_Thal nor_HW Extraction_2,,0,14.1,9811173,,9811173,MM,,,2.861
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,14.03,5962309.5,,5962309.5,MM,,,3.298
+,,,,,,,,,,,,
+Compound 14:  Citric Acid,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,14.46,9031624,,9031624,bb,,,3.229
+2,2,150127_Thal nor_BE Extraction,,0,14.39,4526796.5,,4526796.5,bb,,,3.737
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,14.24,7033886.5,,7033886.5,bb,,,3.39
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,14.16,2786565.25,,2786565.25,bb,,,3.877
+6,6,150127_NEG Mix #1,,0,14.08,1687403.25,,1687403.25,bd,,,3.12
+7,7,150127_NEG Mix #2,,0,,,,,,,,
+8,8,150127_Thal nor_HW Extraction_2,,0,14.1,10517658,,10517658,bb,,,3.05
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,14.05,6994986.5,,6994986.5,bb,,,3.23
+,,,,,,,,,,,,
+Compound 15:  Lipoic Acid,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,2.07,3.842,,3.842,bd,,,81.468
+2,2,150127_Thal nor_BE Extraction,,0,2.01,59.855,,59.855,dd,,,21.769
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,2.13,14.991,,14.991,bb,,,31.686
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,2.06,61.144,,61.144,bd,,,26.2
+6,6,150127_NEG Mix #1,,0,2.03,304473.531,,304473.531,bb,,,13.684
+7,7,150127_NEG Mix #2,,0,,,,,,,,
+8,8,150127_Thal nor_HW Extraction_2,,0,2.04,79.671,,79.671,dd,,,26.735
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,2.07,23.796,,23.796,bb,,,20.34
+,,,,,,,,,,,,
+Compound 16:  Ribose 5 phosphate,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,11.9,251755.5,,251755.5,dd,,,5.44
+2,2,150127_Thal nor_BE Extraction,,0,11.9,172561.781,,172561.781,dd,,,5.257
+3,3,150127_Blank 3,,0,12.19,178.346,,178.346,bb,,,10.603
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,11.87,291570.344,,291570.344,bd,,,4.944
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,11.86,71806.281,,71806.281,MM,,,5.638
+6,6,150127_NEG Mix #1,,0,12.05,743042.688,,743042.688,bb,,,4.962
+7,7,150127_NEG Mix #2,,0,12.01,262.872,,262.872,dd,,,10.747
+8,8,150127_Thal nor_HW Extraction_2,,0,11.46,406349.25,,406349.25,MM,,,1.495
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,11.75,180411.734,,180411.734,MM,,,3.903
+,,,,,,,,,,,,
+Compound 17:  Thymine,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,2.98,35002.125,,35002.125,bb,,,6.465
+2,2,150127_Thal nor_BE Extraction,,0,2.98,26436.027,,26436.027,bb,,,6.87
+3,3,150127_Blank 3,,0,2.78,127.835,,127.835,db,,,24.344
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,2.99,46789.191,,46789.191,bb,,,6.664
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,2.99,40131.738,,40131.738,bb,,,6.187
+6,6,150127_NEG Mix #1,,0,3.04,353385.25,,353385.25,bb,,,4.507
+7,7,150127_NEG Mix #2,,0,3.03,245.542,,245.542,bb,,,17.284
+8,8,150127_Thal nor_HW Extraction_2,,0,2.99,35401.547,,35401.547,bb,,,5.953
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,2.98,48692.918,,48692.918,bb,,,6.633
+,,,,,,,,,,,,
+Compound 18:  Uridine,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,4.69,67211.398,,67211.398,bb,,,5.496
+2,2,150127_Thal nor_BE Extraction,,0,4.69,46354.211,,46354.211,bb,,,5.481
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,4.69,64604.652,,64604.652,bb,,,5.384
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,4.68,54830.457,,54830.457,bb,,,5.843
+6,6,150127_NEG Mix #1,,0,4.67,365647.688,,365647.688,bb,,,5.217
+7,7,150127_NEG Mix #2,,0,4.26,116.896,,116.896,bb,,,15.706
+8,8,150127_Thal nor_HW Extraction_2,,0,4.66,52690.461,,52690.461,bb,,,5.397
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,4.66,45882.816,,45882.816,bb,,,4.38
+,,,,,,,,,,,,
+Compound 19:  Glucose 1 phosphate,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,12.51,1578781.25,,1578781.25,MM,,,4.025
+2,2,150127_Thal nor_BE Extraction,,0,12.54,610667.688,,610667.688,MM,,,4.126
+3,3,150127_Blank 3,,0,12.3,68.666,,68.666,bb,,,9.262
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,12.48,1075084.125,,1075084.125,MM,,,2.888
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,12.48,262523.781,,262523.781,MM,,,3.265
+6,6,150127_NEG Mix #1,,0,12.29,1629363.5,,1629363.5,MM,,,4.673
+7,7,150127_NEG Mix #2,,0,12.29,8918.398,,8918.398,bb,,,7.066
+8,8,150127_Thal nor_HW Extraction_2,,0,12.34,1777749.375,,1777749.375,MM,,,3.538
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,12.37,1181458.875,,1181458.875,MM,,,2.509
+,,,,,,,,,,,,
+Compound 20:  Fructose 6 phosphate,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,,,,,,,,
+2,2,150127_Thal nor_BE Extraction,,0,12.2,31.579,,31.579,bb,,,29.038
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,,,,,,,,
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,,,,,,,,
+6,6,150127_NEG Mix #1,,0,12.29,696840.688,,696840.688,bb,,,6.674
+7,7,150127_NEG Mix #2,,0,12.29,7035.479,,7035.479,bb,,,7.809
+8,8,150127_Thal nor_HW Extraction_2,,0,,,,,,,,
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,,,,,,,,
+,,,,,,,,,,,,
+Compound 21:  Glucose 6 phosphate,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,13.41,609912.75,,609912.75,db,,,4.061
+2,2,150127_Thal nor_BE Extraction,,0,13.41,358667.875,,358667.875,bb,,,3.786
+3,3,150127_Blank 3,,0,13.15,170.942,,170.942,db,,,12.121
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,13.38,1023950.063,,1023950.063,db,,,4
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,13.37,206385,,206385,db,,,4.669
+6,6,150127_NEG Mix #1,,0,,,,,,,,
+7,7,150127_NEG Mix #2,,0,13.2,993132.313,,993132.313,bb,,,5.398
+8,8,150127_Thal nor_HW Extraction_2,,0,13.28,779541.5,,779541.5,MM,,,4.187
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,13.28,1328824.625,,1328824.625,bb,,,3.85
+,,,,,,,,,,,,
+Compound 22:  MTA,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,2.83,9296.425,,9296.425,MM,,,5.64
+2,2,150127_Thal nor_BE Extraction,,0,2.82,2351.97,,2351.97,MM,,,7.018
+3,3,150127_Blank 3,,0,2.86,6.869,,6.869,bb,,,26.933
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,2.79,108.733,,108.733,bb,,,17.511
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,,,,,,,,
+6,6,150127_NEG Mix #1,,0,2.83,79227.148,,79227.148,bb,,,8.102
+7,7,150127_NEG Mix #2,,0,,,,,,,,
+8,8,150127_Thal nor_HW Extraction_2,,0,2.8,9683.392,,9683.392,bb,,,5.79
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,3.03,90.796,,90.796,bb,,,21.609
+,,,,,,,,,,,,
+Compound 23:  Fructose bisphosphate,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,13.4,312880.969,,312880.969,MM,,,5.095
+2,2,150127_Thal nor_BE Extraction,,0,13.41,186213.297,,186213.297,MM,,,5.757
+3,3,150127_Blank 3,,0,14.89,3.025,,3.025,db,,,25.455
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,13.38,418167.469,,418167.469,MM,,,5.504
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,13.34,38472.039,,38472.039,MM,,,6.259
+6,6,150127_NEG Mix #1,,0,15.01,239240.781,,239240.781,bb,,,4.499
+7,7,150127_NEG Mix #2,,0,15.09,1013.06,,1013.06,bb,,,13.725
+8,8,150127_Thal nor_HW Extraction_2,,0,13.27,327358.125,,327358.125,MM,,,5.452
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,13.25,379909.688,,379909.688,MM,,,5.203
+,,,,,,,,,,,,
+Compound 24:  NAD,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,10.85,19562.055,,19562.055,bb,,,5.581
+2,2,150127_Thal nor_BE Extraction,,0,10.82,21906.162,,21906.162,bb,,,4.786
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,10.8,15182.264,,15182.264,bb,,,5.662
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,10.81,13779.645,,13779.645,bd,,,5.753
+6,6,150127_NEG Mix #1,,0,10.64,60595.359,,60595.359,bb,,,5.061
+7,7,150127_NEG Mix #2,,0,10.47,17.897,,17.897,bb,,,12.069
+8,8,150127_Thal nor_HW Extraction_2,,0,10.66,18282.869,,18282.869,bd,,,6.098
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,10.66,12932.967,,12932.967,bb,,,5.415
+,,,,,,,,,,,,
+Compound 25:  FAD,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,8.35,335699.906,,335699.906,MM,,,6.374
+2,2,150127_Thal nor_BE Extraction,,0,8.38,412378.531,,412378.531,MM,,,6.682
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,8.35,316881.781,,316881.781,MM,,,6.633
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,8.27,341996,,341996,MM,,,6.239
+6,6,150127_NEG Mix #1,,0,7.61,8843760,,8843760,bb,,,5.467
+7,7,150127_NEG Mix #2,,0,7.61,94.068,,94.068,bb,,,9.759
+8,8,150127_Thal nor_HW Extraction_2,,0,8.26,371286.563,,371286.563,MM,,,6.483
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,8.32,316433.063,,316433.063,MM,,,6.661
+,,,,,,,,,,,,
+Compound 26:  Malonyl CoA,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,13.03,22.068,,22.068,bb,,,12.461
+2,2,150127_Thal nor_BE Extraction,,0,13.91,10.988,,10.988,bb,,,12.468
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,13.64,1.156,,1.156,db,,,12.111
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,13.81,11.603,,11.603,bb,,,12.497
+6,6,150127_NEG Mix #1,,0,13.51,683209.875,,683209.875,bd,,,5.905
+7,7,150127_NEG Mix #2,,0,13.51,31.699,,31.699,bb,,,20.032
+8,8,150127_Thal nor_HW Extraction_2,,0,13.5,39.367,,39.367,bd,,,12.447
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,13.48,0.963,,0.963,bb,,,12.461
+,,,,,,,,,,,,
+Compound 27:  Acetyl CoA,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,9.8,4086.902,,4086.902,MM,,,4.889
+2,2,150127_Thal nor_BE Extraction,,0,9.78,448.702,,448.702,MM,,,5.431
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,9.56,138.248,,138.248,MM,,,6.93
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,9.58,9.473,,9.473,bb,,,10.451
+6,6,150127_NEG Mix #1,,0,9.24,15744.713,,15744.713,bd,,,4.054
+7,7,150127_NEG Mix #2,,0,9.19,4050164.25,,4050164.25,bb,,,4.293
+8,8,150127_Thal nor_HW Extraction_2,,0,9.38,4270.934,,4270.934,bb,,,5.254
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,9.31,183.141,,183.141,bb,,,6.956
+,,,,,,,,,,,,
+Compound 28:  Succinyl CoA,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,13.16,418.305,,418.305,bb,,,7.659
+2,2,150127_Thal nor_BE Extraction,,0,13.22,578.93,,578.93,bb,,,7.136
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,13.1,2128.204,,2128.204,MM,,,5.645
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,13.05,524.397,,524.397,bb,,,9.104
+6,6,150127_NEG Mix #1,,0,,,,,,,,
+7,7,150127_NEG Mix #2,,0,12.97,135340.719,,135340.719,bb,,,5.043
+8,8,150127_Thal nor_HW Extraction_2,,0,12.94,722.452,,722.452,bb,,,10.327
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,12.89,1300.425,,1300.425,bb,,,5.858
+,,,,,,,,,,,,
+Compound 29:  Taurine,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,8.84,2519551.75,,2519551.75,MM,,,5.38
+2,2,150127_Thal nor_BE Extraction,,0,8.89,2959245,,2959245,MM,,,4.904
+3,3,150127_Blank 3,,0,7.8,71.751,,71.751,db,,,17.798
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,8.84,3354380.25,,3354380.25,MM,,,5.734
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,8.78,3906095.5,,3906095.5,MM,,,5.829
+6,6,150127_NEG Mix #1,,0,,,,,,,,
+7,7,150127_NEG Mix #2,,0,7.8,1121021.125,,1121021.125,bb,,,4.052
+8,8,150127_Thal nor_HW Extraction_2,,0,8.74,3001624,,3001624,MM,,,5.327
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,8.79,3804050.5,,3804050.5,MM,,,6.166
+,,,,,,,,,,,,
+Compound 30:  Ectoine,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,7.9,281.826,,281.826,bb,,,6.511
+2,2,150127_Thal nor_BE Extraction,,0,8.07,143.404,,143.404,MM,,,6.199
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,7.9,301.445,,301.445,MM,,,6.233
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,7.77,298.898,,298.898,MM,,,6.296
+6,6,150127_NEG Mix #1,,0,,,,,,,,
+7,7,150127_NEG Mix #2,,0,8.07,13140.773,,13140.773,bb,,,5.937
+8,8,150127_Thal nor_HW Extraction_2,,0,7.8,420.511,,420.511,bb,,,8.15
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,7.9,172.042,,172.042,MM,,,6.382
+,,,,,,,,,,,,
+Compound 31:  AMP,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,10.31,3112237.75,,3112237.75,bb,,,4.609
+2,2,150127_Thal nor_BE Extraction,,0,10.34,2592768.75,,2592768.75,bb,,,4.195
+3,3,150127_Blank 3,,0,10.03,220.572,,220.572,db,,,9.634
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,10.29,2713439,,2713439,MM,,,3.463
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,10.26,1610830.375,,1610830.375,bb,,,3.901
+6,6,150127_NEG Mix #1,,0,9.99,23126.457,,23126.457,MM,,,4.223
+7,7,150127_NEG Mix #2,,0,9.94,1188905.875,,1188905.875,bb,,,3.867
+8,8,150127_Thal nor_HW Extraction_2,,0,10.09,3061812.75,,3061812.75,bb,,,3.177
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,10.14,3015321,,3015321,MM,,,2.38
+,,,,,,,,,,,,
+Compound 32:  ADP,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,12.11,357886.188,,357886.188,bb,,,3.261
+2,2,150127_Thal nor_BE Extraction,,0,12.19,334103.813,,334103.813,bb,,,2.894
+3,3,150127_Blank 3,,0,12.08,218.394,,218.394,dd,,,10.934
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,12.21,440026.813,,440026.813,bb,,,2.802
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,12.26,81977.594,,81977.594,bb,,,2.897
+6,6,150127_NEG Mix #1,,0,12.18,180.702,,180.702,bb,,,12.529
+7,7,150127_NEG Mix #2,,0,12.08,1133428,,1133428,bb,,,4.906
+8,8,150127_Thal nor_HW Extraction_2,,0,12.21,398085.719,,398085.719,bb,,,3.288
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,12.29,494368.969,,494368.969,bd,,,2.627
+,,,,,,,,,,,,
+Compound 33:  ATP,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,13.54,12092.194,,12092.194,MM,,,2.729
+2,2,150127_Thal nor_BE Extraction,,0,13.55,16518.518,,16518.518,MM,,,2.319
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,13.51,22630.289,,22630.289,MM,,,2.336
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,13.42,4210.023,,4210.023,MM,,,3.316
+6,6,150127_NEG Mix #1,,0,13.4,0.915,,0.915,bd,,,12.022
+7,7,150127_NEG Mix #2,,0,13.35,774069.313,,774069.313,bb,,,4.379
+8,8,150127_Thal nor_HW Extraction_2,,0,13.48,10794.62,,10794.62,MM,,,2.532
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,13.57,24608.25,,24608.25,MM,,,2.186
+,,,,,,,,,,,,
+Compound 34:  Adenosine,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,4.1,77226.297,,77226.297,bb,,,6.185
+2,2,150127_Thal nor_BE Extraction,,0,4.11,42826.16,,42826.16,bb,,,5.821
+3,3,150127_Blank 3,,0,3.87,22.617,,22.617,bb,,,21.223
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,4.1,90323.031,,90323.031,bb,,,5.335
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,4.1,70917,,70917,bb,,,5.358
+6,6,150127_NEG Mix #1,,0,4.02,2.383,,2.383,bb,,,14.687
+7,7,150127_NEG Mix #2,,0,4.07,129097.492,,129097.492,bb,,,5.205
+8,8,150127_Thal nor_HW Extraction_2,,0,4.1,117696.844,,117696.844,bb,,,5.816
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,4.1,118491.008,,118491.008,bb,,,5.474
+,,,,,,,,,,,,
+Compound 35:  Adenine,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,4.1,3449088.75,,3449088.75,bb,,,3.738
+2,2,150127_Thal nor_BE Extraction,,0,4.1,2193868,,2193868,bb,,,4.253
+3,3,150127_Blank 3,,0,4.67,12.124,,12.124,bb,,,73.243
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,4.1,3770167.25,,3770167.25,bb,,,3.644
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,4.11,3145596.25,,3145596.25,bb,,,3.489
+6,6,150127_NEG Mix #1,,0,4.23,2004060.375,,2004060.375,bb,,,5.368
+7,7,150127_NEG Mix #2,,0,4.08,1562251.375,,1562251.375,bb,,,4.681
+8,8,150127_Thal nor_HW Extraction_2,,0,4.1,4060455.75,,4060455.75,bb,,,3.699
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,4.1,4263642,,4263642,bb,,,3.729
+,,,,,,,,,,,,
+Compound 36:  Orotic Acid,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,8.81,2683.118,,2683.118,bb,,,7.066
+2,2,150127_Thal nor_BE Extraction,,0,9.09,23289.385,,23289.385,bb,,,2.128
+3,3,150127_Blank 3,,0,8.99,269.804,,269.804,bb,,,11.342
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,9.11,137084.484,,137084.484,bb,,,3.861
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,9.01,47279.332,,47279.332,MM,,,4.918
+6,6,150127_NEG Mix #1,,0,8.65,11517.614,,11517.614,bb,,,5.159
+7,7,150127_NEG Mix #2,,0,8.83,238.708,,238.708,bb,,,14.834
+8,8,150127_Thal nor_HW Extraction_2,,0,9.06,8783.084,,8783.084,bb,,,4.255
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,9.01,163713.828,,163713.828,bd,,,4.434
+,,,,,,,,,,,,
+Compound 37:  Uracil,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,4.7,102191.438,,102191.438,bd,,,4.75
+2,2,150127_Thal nor_BE Extraction,,0,4.72,79132.375,,79132.375,bb,,,4.455
+3,3,150127_Blank 3,,0,4.59,50.197,,50.197,bb,,,16.515
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,4.68,126769.461,,126769.461,bb,,,4.78
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,4.68,96649.938,,96649.938,bb,,,4.875
+6,6,150127_NEG Mix #1,,0,4.66,148098.609,,148098.609,bb,,,4.302
+7,7,150127_NEG Mix #2,,0,4.52,619856.938,,619856.938,bb,,,5.35
+8,8,150127_Thal nor_HW Extraction_2,,0,4.67,103625.906,,103625.906,bd,,,4.741
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,4.68,122902.094,,122902.094,bb,,,3.789
+,,,,,,,,,,,,
+Compound 38:  Cytosine,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,5.33,988.624,,988.624,MM,,,4.238
+2,2,150127_Thal nor_BE Extraction,,0,5.55,326.008,,326.008,MM,,,3.954
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,5.54,671.243,,671.243,MM,,,2.665
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,5.34,569.309,,569.309,bb,,,7.225
+6,6,150127_NEG Mix #1,,0,,,,,,,,
+7,7,150127_NEG Mix #2,,0,5.62,13326.949,,13326.949,bb,,,5.991
+8,8,150127_Thal nor_HW Extraction_2,,0,5.33,172.901,,172.901,MM,,,6.883
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,5.39,487.867,,487.867,MM,,,5.081
+,,,,,,,,,,,,
+Compound 39:  G3P,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,12.49,74729.461,,74729.461,bb,,,4.496
+2,2,150127_Thal nor_BE Extraction,,0,12.52,16842.479,,16842.479,bb,,,6.323
+3,3,150127_Blank 3,,0,12.33,65.791,,65.791,bd,,,12.996
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,12.48,16776.92,,16776.92,bb,,,6.762
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,12.05,2685.674,,2685.674,db,,,7.441
+6,6,150127_NEG Mix #1,,0,12.06,14298.697,,14298.697,bd,,,5.761
+7,7,150127_NEG Mix #2,,0,12.14,49233.023,,49233.023,bb,,,5.096
+8,8,150127_Thal nor_HW Extraction_2,,0,12.33,69694.281,,69694.281,dd,,,4.5
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,12.41,27162.166,,27162.166,bd,,,4.636
+,,,,,,,,,,,,
+Compound 40:  Oxalic Acid,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,13.19,4325.914,,4325.914,bd,,,9.34
+2,2,150127_Thal nor_BE Extraction,,0,13.3,2238.03,,2238.03,bd,,,9.056
+3,3,150127_Blank 3,,0,13.21,322.925,,322.925,bb,,,8.547
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,13.13,986.413,,986.413,bb,,,10.464
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,13.2,405.139,,405.139,MM,,,6.837
+6,6,150127_NEG Mix #1,,0,13.34,244.918,,244.918,bd,,,7.194
+7,7,150127_NEG Mix #2,,0,13.24,11198.915,,11198.915,bb,,,5.473
+8,8,150127_Thal nor_HW Extraction_2,,0,13.61,7935.146,,7935.146,MM,,,3.186
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,13.55,9610.563,,9610.563,bb,,,3.789
+,,,,,,,,,,,,
+Compound 41:  Methylphosphonic Acid,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,10.68,2.587,,2.587,bb,,,11.983
+2,2,150127_Thal nor_BE Extraction,,0,,,,,,,,
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,,,,,,,,
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,11.37,0.9,,0.9,bb,,,12.222
+6,6,150127_NEG Mix #1,,0,,,,,,,,
+7,7,150127_NEG Mix #2,,0,8.66,459357.719,,459357.719,MM,,,3.251
+8,8,150127_Thal nor_HW Extraction_2,,0,,,,,,,,
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,,,,,,,,
+,,,,,,,,,,,,
+Compound 42:  cAMP,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,4.07,82000.148,,82000.148,bb,,,5.224
+2,2,150127_Thal nor_BE Extraction,,0,4.1,13328.38,,13328.38,bb,,,5.725
+3,3,150127_Blank 3,,0,4.54,21.8,,21.8,bb,,,14.679
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,4.02,30044.09,,30044.09,db,,,5.339
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,4.02,28070.805,,28070.805,bb,,,5.39
+6,6,150127_NEG Mix #1,,0,4.03,3.163,,3.163,bb,,,15.175
+7,7,150127_NEG Mix #2,,0,4.09,526.559,,526.559,dd,,,7.916
+8,8,150127_Thal nor_HW Extraction_2,,0,3.9,74959.648,,74959.648,MM,,,5.266
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,3.9,30424.445,,30424.445,db,,,6.604
+,,,,,,,,,,,,
+Compound 43:  Tetrahydrofolic Acid,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,12.39,481.307,,481.307,bb,,,7.974
+2,2,150127_Thal nor_BE Extraction,,0,12.43,274.173,,274.173,bd,,,11.416
+3,3,150127_Blank 3,,0,12.5,14.877,,14.877,bb,,,10.352
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,12.35,161.619,,161.619,bd,,,20.845
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,12.39,189.881,,189.881,MM,,,10.127
+6,6,150127_NEG Mix #1,,0,,,,,,,,
+7,7,150127_NEG Mix #2,,0,12.13,2.117,,2.117,bb,,,12.282
+8,8,150127_Thal nor_HW Extraction_2,,0,12.24,594.541,,594.541,bb,,,8.748
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,12.29,135.135,,135.135,bb,,,13.12
+,,,,,,,,,,,,
+Compound 44:  NADPH,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,13.64,206.746,,206.746,MM,,,6.017
+2,2,150127_Thal nor_BE Extraction,,0,14.3,733.067,,733.067,MM,,,7.166
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,14.18,2942.615,,2942.615,MM,,,5.047
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,14.23,106.002,,106.002,MM,,,12.462
+6,6,150127_NEG Mix #1,,0,,,,,,,,
+7,7,150127_NEG Mix #2,,0,13.33,609091.063,,609091.063,bb,,,5.208
+8,8,150127_Thal nor_HW Extraction_2,,0,13.43,80.382,,80.382,MM,,,8.385
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,14.09,3514.563,,3514.563,MM,,,5.805
+,,,,,,,,,,,,
+Compound 45:  S7P,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,12.8,571662,,571662,bb,,,4.993
+2,2,150127_Thal nor_BE Extraction,,0,12.81,341225.813,,341225.813,bb,,,5.316
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,12.77,476543.25,,476543.25,bb,,,4.793
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,12.76,132048.797,,132048.797,bb,,,4.898
+6,6,150127_NEG Mix #1,,0,,,,,,,,
+7,7,150127_NEG Mix #2,,0,,,,,,,,
+8,8,150127_Thal nor_HW Extraction_2,,0,12.64,734009.875,,734009.875,bb,,,5.158
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,12.66,539178.25,,539178.25,bb,,,4.914
+,,,,,,,,,,,,
+Compound 46:  Butyryl CoA,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,10.82,994.786,,994.786,bb,,,8.342
+2,2,150127_Thal nor_BE Extraction,,0,10.8,1325,,1325,bb,,,7.275
+3,3,150127_Blank 3,,0,,,,,,,,
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,10.77,1350.483,,1350.483,bb,,,7.831
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,10.75,1179.436,,1179.436,bb,,,8.048
+6,6,150127_NEG Mix #1,,0,10.77,0.48,,0.48,bb,,,12.5
+7,7,150127_NEG Mix #2,,0,10.79,40.331,,40.331,bd,,,11.53
+8,8,150127_Thal nor_HW Extraction_2,,0,10.62,977.874,,977.874,bb,,,8.569
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,10.61,623.984,,623.984,bb,,,8.622
+,,,,,,,,,,,,
+Compound 47:  Hydroxybutyryl CoA,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,11.56,1822.39,,1822.39,bb,,,7.003
+2,2,150127_Thal nor_BE Extraction,,0,11.61,1228.903,,1228.903,bb,,,6.866
+3,3,150127_Blank 3,,0,11.4,1.31,,1.31,bb,,,12.214
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,11.56,1884.711,,1884.711,bd,,,7.567
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,11.49,1288.787,,1288.787,bb,,,8.57
+6,6,150127_NEG Mix #1,,0,,,,,,,,
+7,7,150127_NEG Mix #2,,0,11.53,2.193,,2.193,db,,,12.312
+8,8,150127_Thal nor_HW Extraction_2,,0,11.43,2145.479,,2145.479,bb,,,3.796
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,11.43,2127.179,,2127.179,bb,,,4.604
+,,,,,,,,,,,,
+Compound 48:  Methyl Malonyl CoA,,,,,,,,,,,,
+,,,,,,,,,,,,
+,#,Name,Type,Std. Conc,RT,Area,IS Area,Response,Primary Flags,Conc.,%Dev,Height/Area
+1,1,150127_Thal nor_HW Extraction,,0,13.16,1162.637,,1162.637,bb,,,6.881
+2,2,150127_Thal nor_BE Extraction,,0,13.25,1109.065,,1109.065,bb,,,6.79
+3,3,150127_Blank 3,,0,13.02,0.818,,0.818,bb,,,12.225
+4,4,150127_Thal nor_MeOH-DCM Extraction,,0,13.05,934.436,,934.436,MM,,,7.138
+5,5,150127_Thal nor_40-40-20-no acid Extraction,,0,13,454.47,,454.47,MM,,,8.647
+6,6,150127_NEG Mix #1,,0,13.13,34.281,,34.281,bb,,,12.456
+7,7,150127_NEG Mix #2,,0,,,,,,,,
+8,8,150127_Thal nor_HW Extraction_2,,0,12.95,1214.269,,1214.269,MM,,,6.114
+9,9,150127_Thal nor_MeOH-DCM Extraction_2,,0,12.9,1746.455,,1746.455,MM,,,4.885

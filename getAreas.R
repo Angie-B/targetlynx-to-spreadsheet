@@ -5,8 +5,10 @@
 ## are named with the sample they correspond to.
 
 ## data is the targetlynx data for all the samples but only one compound/transition
-## nSamples is the number of Samples in the data
-getData <- function(data, nSamples,param){     
+## sampRows is a logical vector of the same length as the rows of data
+## where TRUE indicates that there is a sample in that row.
+getData <- function(data, sampRows,param){
+     nSamples <- length(sampRows)
      Vec <- rep(NA,nSamples)
      names(Vec) <- data[,"Name"]
      for(i in 1:nSamples){

@@ -15,7 +15,7 @@
 
 setwd("C:/Users/Angela/Documents/2014 Summer lab work/target linx output modifying program/essentials/")
 source("getAreas.R")
-filename <- "targetlinx_output.csv"
+filename <- "p21_to_p24.csv"
 
 ## Reading in the targetlynx data --------------------------------------
 unmodified <- read.csv(filename ,header=FALSE, comment.char="", as.is=TRUE)
@@ -23,22 +23,26 @@ names(unmodified) <- unmodified[7,]
 
 ## Determine the number of samples --------------------------------
 unmodified[,2] <- as.numeric(unmodified[,2])
-rowCount <- 1
+rowCount <- 0
 nSamples <- 0
+sampRows <- rep(FALSE, length(unmodified[,2]))
 lastRow <- NA
 for(i in 1:length(unmodified[,2])){
      if(is.na(lastRow)) {
-          thisRow <- unmodified[rowCount,2]
           rowCount <- rowCount + 1
+          thisRow <- unmodified[rowCount,2]
           lastRow <- thisRow
      } else {
-          nSamples <- nSamples + 1
+          if (unmodified[rowCount,3] == "") sampRows[rowCount] <- FALSE
+          if (unmodified[rowCount,3] != "") sampRows[rowCount] <- TRUE
           thisRow <- unmodified[rowCount,2]
           if (is.na(thisRow)) break
+          nSamples <- nSamples + 1
           lastRow <- thisRow
           rowCount <- rowCount + 1
      }
 }
+sampRows <- sampRows[(rowCount-nSamples):(rowCount-1)]
 
 ## Get the data for all compounds ------------------------------------
 ## initiate our search for compounds at row 1
@@ -54,9 +58,9 @@ while(row < nrow(unmodified)) {
      if (substr(unmodified[row,1],start=1,stop=8) == "Compound") {
           ## EXTRACT THE AREA DATA FOR THAT COMPOUND
           data <- unmodified[(row+3):(row+nSamples+2),1:ncol(unmodified)]
-          areas <- getData(data, nSamples,"Area")
-          RTs <- getData(data, nSamples, "RT")
-          ratio <- getData(data, nSamples, "Height/Area")
+          areas <- getData(data, sampRows,"Area")
+          RTs <- getData(data, sampRows, "RT")
+          ratio <- getData(data, sampRows, "Height/Area")
           
           ## Update the compound names list 
           name <- unmodified[row,1]
@@ -81,7 +85,7 @@ colnames(RTMatrix) <- names
 colnames(ratioMatrix) <- names
 
 ## Write the areas spreadsheet to a csv ---------------------------
-write.csv(areaMatrix, file = "Areas.csv")
-write.csv(RTMatrix, file = "RTs.csv")
-write.csv(ratioMatrix, file = "Height_Area.csv")
+write.csv(areaMatrix, file = "Areas_p21_to_p24.csv")
+write.csv(RTMatrix, file = "RTs_p21_to_p24.csv")
+write.csv(ratioMatrix, file = "Height_Area_p21_to_p24.csv")
 
